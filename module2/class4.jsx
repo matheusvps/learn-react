@@ -6,5 +6,5 @@ const root = createRoot(container);
 
 const theBestString = 'This text was accessed through a javascript variable';
 
-//Acessing js variables
+//Acessing js variables     
 root.render(<h1>{theBestString}</h1>);
